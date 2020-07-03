@@ -1,5 +1,5 @@
 const modalOverlay = document.querySelector(".modal-overlay")
-const cards = document.querySelectorAll(".cards")
+const cards = document.querySelectorAll(".cards .card")
 
 
 for(let card of cards) {
